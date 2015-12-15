@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 9.99
+  average_user_rating: 1.5
+  name: MyString
+  company_name: MyString
+  bundle_id: MyString
+  version: MyString
+  description: MyText
+  average_user_rating_version: 1.5
+  user_rating_count_version: 1
+  user_rating_count: 1
+  minimum_os_version: MyString
+  company_id: 1
+  file_size_bytes: MyText
+  store_url: MyString
+  content_rating: MyString
+  currency: MyString
+  release_date: 2015-12-15
+
+two:
+  price: 9.99
+  average_user_rating: 1.5
+  name: MyString
+  company_name: MyString
+  bundle_id: MyString
+  version: MyString
+  description: MyText
+  average_user_rating_version: 1.5
+  user_rating_count_version: 1
+  user_rating_count: 1
+  minimum_os_version: MyString
+  company_id: 1
+  file_size_bytes: MyText
+  store_url: MyString
+  content_rating: MyString
+  currency: MyString
+  release_date: 2015-12-15
